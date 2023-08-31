@@ -8,7 +8,7 @@ let multiply = num1 * num2;
 console.log(multiply); // Output: 62
 Step 2: Create a variable called random that generates a random integer greater than 0.
 let random = Math.floor(Math.random() * 100) + 1;
-console.log(random); // Output:random number between 1 and 100
+console.log(random); // Output: random number between 1 and 100
 Step 3: Create a variable called mod that calculates the remainder of dividing num3 by num4. The remainder should be 4.
 let num3 = 14;
 let num4 = 5;
@@ -17,3 +17,21 @@ console.log(mod); // Output: 4
 Step 4: Use the Math.max() function to find the highest number in a set. In your case, you want to find the highest number among a given set of numbers, which is 20. You need to pass all the numbers as arguments to the Math.max() function.
 let max = Math.max(10, 20, 5);
 console.log(max); // Output: 20
+I hope this helps! Let me know if you have any further questions.
+
+
+
+let num1 = 31;
+let num2 = 2;
+let multiply = nim1 * num2;
+console.log(multiply); //Output: 62
+let random =Math.floor(Math.random() * 100) + 1;
+console.log(random); //  Output: random number between 1 and 100
+let num3 = 14;
+let num4 = 5;
+let mod = num3 % num4;
+console.log(mod); //Output: 4
+let max = Math.max(10, 20, 5);
+console.log(max); //Output 20
+
+            
